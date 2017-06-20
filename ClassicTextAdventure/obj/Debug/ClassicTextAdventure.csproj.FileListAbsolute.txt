@@ -1,0 +1,6 @@
+C:\repo\pennstate\text-adventure-2017\ClassicTextAdventure\bin\Debug\ClassicTextAdventure.exe.config
+C:\repo\pennstate\text-adventure-2017\ClassicTextAdventure\bin\Debug\ClassicTextAdventure.exe
+C:\repo\pennstate\text-adventure-2017\ClassicTextAdventure\bin\Debug\ClassicTextAdventure.pdb
+C:\repo\pennstate\text-adventure-2017\ClassicTextAdventure\obj\Debug\ClassicTextAdventure.csprojResolveAssemblyReference.cache
+C:\repo\pennstate\text-adventure-2017\ClassicTextAdventure\obj\Debug\ClassicTextAdventure.exe
+C:\repo\pennstate\text-adventure-2017\ClassicTextAdventure\obj\Debug\ClassicTextAdventure.pdb
